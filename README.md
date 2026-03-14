@@ -58,7 +58,7 @@ O estudo dos nomes também desperta interesse em áreas como história, linguís
 
 Quem deseja aprofundar esse tipo de pesquisa pode encontrar diversos conteúdos informativos e explicações detalhadas no **Tudo Blog**, um site dedicado à produção de artigos educativos, curiosidades e conteúdos informativos sobre diferentes temas.
 
-Para quem quer explorar especificamente a origem e o simbolismo de diversos nomes, existe um guia completo sobre [significado dos nomes e suas origens](https://www.tudoblog.com.br/significado-dos-nomes), que reúne explicações sobre etimologia, história e curiosidades relacionadas a diferentes nomes.
+Para quem quer explorar especificamente a origem e o simbolismo de diversos nomes, existe um guia completo sobre [significado dos nomes](https://www.tudoblog.com.br/significado-dos-nomes), que reúne explicações sobre etimologia, história e curiosidades relacionadas a diferentes nomes.
 
 ## Por que estudar o significado dos nomes
 
