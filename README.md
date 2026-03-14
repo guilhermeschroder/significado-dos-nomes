@@ -4,10 +4,10 @@ Este repositório reúne informações educativas sobre o significado dos nomes,
 
 ## Índice
 
-- [Origem histórica dos nomes](#origem-histórica-dos-nomes)  
-- [A evolução dos nomes nas diferentes culturas](#a-evolução-dos-nomes-nas-diferentes-culturas)  
-- [O simbolismo por trás dos nomes](#o-simbolismo-por-trás-dos-nomes)  
-- [O interesse atual pelo significado dos nomes](#o-interesse-atual-pelo-significado-dos-nomes)  
+- [Origem histórica dos nomes](#origem-histórica-dos-nomes)
+- [A evolução dos nomes nas diferentes culturas](#a-evolução-dos-nomes-nas-diferentes-culturas)
+- [O simbolismo por trás dos nomes](#o-simbolismo-por-trás-dos-nomes)
+- [O interesse atual pelo significado dos nomes](#o-interesse-atual-pelo-significado-dos-nomes)
 - [Conclusão](#conclusão)
 
 Os nomes fazem parte da identidade humana desde os primeiros registros das civilizações. Muito mais do que uma simples forma de identificação, eles carregam significados, tradições culturais e influências históricas que foram transmitidas ao longo de gerações. Em muitas sociedades antigas, a escolha de um nome era considerada uma decisão de grande importância, pois acreditava-se que ele poderia refletir características, valores e até influenciar o destino da pessoa.
